@@ -37,3 +37,6 @@ Here are some ideas to get you started:
     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=compact)]
+(https://github.com/ansharah-gs/github-readme-stats)
+
