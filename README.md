@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 📄 Dive deeper into my journey: Experiences & projects. 
 - 💬 Ask me about ...
 - 📫 How to reach me: ansharahmir@gmail.com
 - 😄 Pronouns: she/her
@@ -37,5 +38,5 @@ Here are some ideas to get you started:
     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages" width="40" height="40">
 
