@@ -38,5 +38,5 @@ Here are some ideas to get you started:
     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages" width="40" height="40">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages" width="100" >
 
