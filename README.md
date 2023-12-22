@@ -17,8 +17,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px"/>
 </div>
  Hi there 👋! My name is Ansharah
-  📫 How to reach me: ansharahmir@gmail.com
-  😄 Pronouns: she/her
+ <ul>
+   <li> 📫 How to reach me: ansharahmir@gmail.com</li>
+   <li> 😄 Pronouns: she/her</li>
+ </ul>
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
