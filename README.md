@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>&nbsp;
@@ -38,5 +39,5 @@ Here are some ideas to get you started:
     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=pie" alt="Top Languages" width="50%" style="float:right">
+
 
