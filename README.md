@@ -12,19 +12,18 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
 </div>
- Hi there 👋! My name is Ansharah
- <ul>
-   <li> 📫 How to reach me: ansharahmir@gmail.com</li>
-   <li> 😄 Pronouns: she/her</li>
-   <li> 📄 Dive deeper into my journey: Experiences & projects.
-       <a href="https://ansharah-gs.github.io/my-portfolio-app/" target="_blank" rel="noreferrer">https://ansharah-gs.github.io/my-portfolio-app/</a>
-   </li>
- </ul> 
- <div>
-  <div> 
+  
+ Hi there 👋! My name is Ansharah 
+ - 📫 How to reach me: ansharahmir@gmail.com</li>
+ - 😄 Pronouns: she/her</li>
+ - 📄 Dive deeper into my journey: Experiences & projects.    <a href="https://ansharah-gs.github.io/my-portfolio-app/" target="_blank" rel="noreferrer">https://ansharah-gs.github.io/my-portfolio-app/</a>
+
+
+ <div>  
     
  ### :hammer_and_wrench: Languages and Tools :
   <div style="float:left" align"left" >
@@ -42,8 +41,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
-<div style="float:right" align="right" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=compact" alt="Top Languages">
+<br/>
+<div>
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 <div id="badges" align="center" style="clear:both">
@@ -51,4 +52,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
