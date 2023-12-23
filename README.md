@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </li>
  </ul>
  
-
+<div>
 ### :hammer_and_wrench: Languages and Tools :
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 </div>
 <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=compact" alt="Top Languages" align="right">
+</div>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ansharah-qasim-software-developer/" target="_blank"> 
