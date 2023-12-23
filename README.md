@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    </li>
  </ul> 
  <div>
-   
+  <div> 
  ### :hammer_and_wrench: Languages and Tools :
   <div align"left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
