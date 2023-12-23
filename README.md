@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  </ul> 
  <div>
   <div> 
+    
  ### :hammer_and_wrench: Languages and Tools :
-  <div align"left">
+  <div align"left" style="float:left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>&nbsp;
