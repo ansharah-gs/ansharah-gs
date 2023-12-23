@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    </li>
  </ul> 
  <div>
-<div style="float:left">
+<div style="float:left"  align="left">
 ### :hammer_and_wrench: Languages and Tools :
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img src="" title="" alt="" width="40" height="40"/>&nbsp;
     <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
-<div  style="float:right">
+<div align="right" style="float:right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharah-gs&layout=compact" alt="Top Languages">
 </div>
 </div>
